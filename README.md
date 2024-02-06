@@ -1,4 +1,4 @@
-# postman_clone
+# Postman Clone
 
 A new Flutter project.
 
